@@ -13,6 +13,7 @@
 		0AA66DBD2B9A30BF00712A34 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AA66DBB2B9A30BF00712A34 /* Main.storyboard */; };
 		0AA66DBF2B9A30C400712A34 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AA66DBE2B9A30C400712A34 /* Assets.xcassets */; };
 		0AA66DC22B9A30C400712A34 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AA66DC02B9A30C400712A34 /* LaunchScreen.storyboard */; };
+		0AA66DCA2B9A320D00712A34 /* InstagramPostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AA66DC92B9A320D00712A34 /* InstagramPostViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0AA66DBE2B9A30C400712A34 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0AA66DC12B9A30C400712A34 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0AA66DC32B9A30C400712A34 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0AA66DC92B9A320D00712A34 /* InstagramPostViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramPostViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0AA66DB52B9A30BF00712A34 /* AppDelegate.swift */,
 				0AA66DB72B9A30BF00712A34 /* SceneDelegate.swift */,
 				0AA66DB92B9A30BF00712A34 /* ViewController.swift */,
+				0AA66DC92B9A320D00712A34 /* InstagramPostViewController.swift */,
 				0AA66DBB2B9A30BF00712A34 /* Main.storyboard */,
 				0AA66DBE2B9A30C400712A34 /* Assets.xcassets */,
 				0AA66DC02B9A30C400712A34 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0AA66DBA2B9A30BF00712A34 /* ViewController.swift in Sources */,
+				0AA66DCA2B9A320D00712A34 /* InstagramPostViewController.swift in Sources */,
 				0AA66DB62B9A30BF00712A34 /* AppDelegate.swift in Sources */,
 				0AA66DB82B9A30BF00712A34 /* SceneDelegate.swift in Sources */,
 			);
